@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "why do we use it",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "opening party",
+      "body": "why do we not used it",
+      "author": "lugi",
+      "id": 2
+    },
+    {
+      "title": "hhgjhgjh",
+      "body": "jhgjgjhgj",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "food",
+      "body": "food has nutritions",
+      "author": "luigi",
+      "id": 4
+    }
+  ]
+}
